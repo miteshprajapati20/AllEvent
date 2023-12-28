@@ -1,0 +1,9 @@
+{
+  "config": {
+      "process-timeout": 600
+  },
+  "require": {
+    "google/apiclient": "2.15.0",
+    "cloudinary/cloudinary_php": "^2.12"
+  }
+}
